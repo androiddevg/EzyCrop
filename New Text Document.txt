@@ -1,0 +1,6 @@
+-> CropImage and Edit Using android's default functionality.
+
+-> Spported Upto noghut and all old versions 
+
+-> Eazy to use 
+
